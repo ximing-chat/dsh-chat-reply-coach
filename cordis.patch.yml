@@ -1,0 +1,4 @@
+- insert:
+    - id: chat-reply-coach
+      name: '@local/dsh-chat-reply-coach'
+      config: {}
