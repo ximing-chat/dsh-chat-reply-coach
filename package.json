@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "description": "Register the chat-reply-coach skill (Chinese chat reply suggestions) into the Harness profile.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ximing-chat/dsh-chat-reply-coach"
+  },
   "exports": {
     ".": "./index.js",
     "./locale/*.json": "./locale/*.json",
